@@ -3,6 +3,12 @@
    License: none (public domain)
 */
 
+@font-face { font-family: im fell dw pica; 
+	src: url("imfelldwpica-regular-webfont.woff2") 
+	format("woff2"); font-style: normal; 
+	font-weight: 100 900; font-display: swap; }
+
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -69,21 +75,6 @@ p {
 	width: 60%;
 }
 
-code {
-	font: normal normal;
-	font-size: 90%;
-	/*line-height: 1em;*/
-	font-family: Monaco,Menlo,monospace,sans-serif;
-	color: #ccc;
-}
-
-p code {
-	position: absolute;
-	text-align: right;
-	right: -20%;
-}
-
-
 ul {
 	position: relative;
 	left: 25%;
@@ -135,7 +126,7 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #a00;
+	color: #ff286d;
 	margin-top: 2em;
 	position: relative;
 	top: 1.2em;
@@ -160,7 +151,7 @@ a {
 }
 
 a:hover {
-	color:#39f
+	color: #ff286d
 }
 
 #webaddress {
@@ -168,8 +159,9 @@ a:hover {
 	position: relative;
 	left: 25%;
 	color: #ccc;
-	font-family: Monaco,Menlo,monospace,sans-serif;
+	font-family: "im fell dw pica";
 	font-size: 90%;
+
 }
 
 #webaddress a {
@@ -188,6 +180,69 @@ strong {
 #ghbutton {
 	display: none;
 	visibility: hidden;
+}
+
+@media print { 
+ /* All your print styles go here */
+ #header, #footer, #nav { display: none !important; } 
+}
+
+/* Estilo CSS para resaltar sintaxis de código */
+pre {
+  padding: 10px;
+  white-space: pre-wrap;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  overflow-wrap: break-word;
+  word-break: break-all;
+  position: relative;
+  left: 25%;
+  width: 75%;
+  margin-bottom: 1.5em;
+  margin-top: -0.5em;
+  background-color: #1e1f1d;
+
+}
+
+code {
+  font-family: "Courier New", monospace;
+  display: block;
+}
+
+.highlighter-rouge {
+  color: #ff691ex|  ;
+}
+
+/* Estilos para el cursor intermitente en la terminal */
+pre::after {
+  content: "_";
+  animation: blink 1s infinite;
+}
+
+/* Animación para el cursor intermitente */
+@keyframes blink {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+}
+
+
+/* Estilos para diferentes tipos de sintaxis */
+/* Puedes personalizar los colores según tus preferencias */
+
+.highlight .n { /* Variables Liquid */
+  color: #ff691e;
+}
+
+.highlight .s { /* Variables Liquid */
+  color: #c0f329;
+}
+
+.highlight .sh { /* Palabras clave */
+  color: #fffef8;
 }
 
 

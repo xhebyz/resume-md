@@ -1,0 +1,57 @@
+/* Estilo CSS para resaltar sintaxis de código */
+pre {
+  padding: 10px;
+  white-space: pre-wrap;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  overflow-wrap: break-word;
+  word-break: break-all;
+  position: relative;
+  left: 25%;
+  width: 75%;
+  margin-bottom: 1.5em;
+  margin-top: -0.5em;
+  background-color: #1e1f1d;
+
+}
+
+code {
+  font-family: "Courier New", monospace;
+  display: block;
+}
+
+.highlighter-rouge {
+  color: #ff691e;
+}
+
+/* Estilos para el cursor intermitente en la terminal */
+pre::after {
+  content: "_";
+  animation: blink 1s infinite;
+}
+
+/* Animación para el cursor intermitente */
+@keyframes blink {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+}
+
+
+/* Estilos para diferentes tipos de sintaxis */
+/* Puedes personalizar los colores según tus preferencias */
+
+.highlight .n { /* Variables Liquid */
+  color: #ff691e;
+}
+
+.highlight .s { /* Variables Liquid */
+  color: #c0f329;
+}
+
+.highlight .sh { /* Palabras clave */
+  color: #fffef8;
+}

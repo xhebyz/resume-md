@@ -1,2 +1,5 @@
 markdown: kramdown
-style: kjhealy
+style: davewhipp
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
