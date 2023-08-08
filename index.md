@@ -4,6 +4,9 @@ title: Sebastian Araos Curriculum
 ---
 # Sebastián Ignacio Araos Dattoli
 Desarrollador Senior
+<div id="subtitle">
+Titulado Analista Programador
+</div>
 
 <div id="webaddress">
 seba.araos@gmail.com | +56 (9) 620 74 704
@@ -12,27 +15,24 @@ seba.araos@gmail.com | +56 (9) 620 74 704
 Av. José Miguel de la Barra 430 Dpto. 53 – Santiago, Santiago de Chile
 </div>
 
-
 ## Presentación
 
 - Profesional altamente experimentado en autogestión y desarrollo en diversos lenguajes, aplicaciones y soluciones tecnológicas. Impulsado por la pasión por la innovación, el aprendizaje continuo y la creación de soluciones eficientes, orientadas al presente y futuro. Cuento con una amplia experiencia en diversos sectores como minería, análisis de datos, contabilidad, fintech, mensajería, entre otros.
 
-
 ### Especializado en
 
-- Me especializo en el desarrollo de software fullstack a medida, brindando servicios de diseño, construcción e implementación de soluciones en diversos *lenguajes* y tecnologías, entre los que destacan *Java, Python, PHP, Node.js, Groovy, Typescript y Javascript*.
-
+- Me especializo en el desarrollo de software fullstack a medida, brindando servicios de diseño, construcción e implementación de soluciones en diversos *lenguajes* y tecnologías, entre los que destacan **Java, Python, PHP, Node.js, Groovy, Typescript y Javascript**. 
+- Mi enfoque de trabajo se basa en **metodologías ágiles**, siendo un firme defensor de la agilidad para abordar proyectos de manera flexible y colaborativa. He trabajado con metodologías como **Scrum y Kanban**, entre otras, para asegurar la entrega oportuna y eficaz de soluciones. Creo en la importancia de la comunicación y la adaptación constante, lo que me permite enfrentar desafíos de manera efectiva y brindar resultados de alta calidad.
 
 ### Intereses profesionales
 
 - Mi enfoque profesional se orienta hacia el desarrollo de software, abarcando aplicaciones web, móviles y de escritorio agregando nuevas tecnologias. Disfruto colaborar en equipos y liderar la creación de soluciones en respuesta a los retos del desarrollo de software. Mi búsqueda se dirige a oportunidades que me permitan continuar explorando e innovando en estas áreas, contribuyendo al desarrollo de soluciones tecnológicas eficaces y de gran impacto.
 
-
 ## Premios y Reconocimiento
 
 - **Ganador en el concurso** "API Mercado Público 2014" con "Werkén": Fui galardonado como ganador en el concurso "API Mercado Público 2014" por mi destacada participación y la creación de "Werkén", una innovadora alarma basada en la plataforma de mensajería Whatsapp. Esta solución notifica oportunamente sobre Órdenes de Compra y Licitaciones, demostrando mi capacidad para desarrollar soluciones tecnológicas efectivas y prácticas para mejorar los procesos de adquisiciones
 
-
+<div style = "display:block; clear:both; page-break-after:always;"></div>
 ## Experiencia
 
 `Enero 2022 - Junio 2023`
@@ -40,8 +40,6 @@ __3it - Banco de Chile, Santiago, Chile__
 <br>***Desarrollador Fullstack***
 - Formé parte del equipo de Continuidad Móvil, participando en el desarrollo y mantenimiento de aplicaciones móviles. También fui parte del equipo de desarrollo del Laboratorio Digital, contribuyendo al desarrollo del Onboarding para el producto 'Cuenta FAN Clan'.
 ##### __Tecnologías__: *Frontend: Angular, AngularJs, Ionic (Angular), React Native, Swift, Xcode | Backend: Java 11, Java 7, Java 8, Node.js, Spring Boot | Base de datos: Oracle SQL, Oracle NoSQL | IDEs (Entornos de desarrollo integrados): Android Studio, Intellij, WebStorm*
-
-<div style = "display:block; clear:both; page-break-after:always;"></div>
 
 `Mayo 2021 - Octubre 2021`
 __Fundación Nativo Digital, Santiago, Chile__
@@ -70,13 +68,12 @@ __TGA - Trend Group America Santiago, Chile__
 - Desarrollador senior con capacidad de liderazgo en la implementación de nuevas tecnologías y soluciones para la migración de datos y plataformas.
 ##### *__Tecnologías__: Plataformas en la nube: AWS | Lenguajes: Python, Bash, PHP | Frameworks: Codeigniter | Bases de datos: Aurora Mysql | Herramientas: Pentaho | Backend: Node.js*
 
+<div style = "display:block; clear:both; page-break-after:always;"></div>
 `Noviembre 2018 - Junio 2019`
 __Synaptic Santiago, Chile__
 <br>***Desarrollador autogestionado***
 - Desarrollador autogestionado en proyectos para SERNAC, centrados en fiscalización. Además, contribuí en el Coordinador Eléctrico Nacional, participando en la plataforma de Gestión de Proyectos.
 ##### *__Tecnologías__: Frontend: React | Backend: Django, Flask, PHP Laravel | Desarrollo Android: Java Android | Bases de datos: Postgresql, MongoDb | Plataforma en la nube: Google App Engine*
-
-<div style = "display:block; clear:both; page-break-after:always;"></div>
 
 `Octubre 2018`
 __Independiente - Bithaus, Santiago, Chile__
@@ -110,7 +107,7 @@ __Enlaces - Bolsa de Comercio de Santiago, Santiago, Chile__
 - Participé en el desarrollo, programación e implementación como parte del equipo del 'Proyecto Derivados'. Utilicé herramientas de mensajería como WLLM y FIX (QuickFix), además de brindar capacitación para la modificación de Market Data BCS.
 ##### *__Tecnologías__: Lenguaje y Frameworks: Java, Java Swing | Base de datos y Almacenamiento: SqlServer, Memcache | Comunicación: Mensajería WLLM, QuickFix*
 
-
+<div style = "display:block; clear:both; page-break-after:always;"></div>
 `Septiembre 2011 – Diciembre 2011`
 __GST - Accenture, Santiago, Chile__
 <br>***Programador para Proyecto***
@@ -118,8 +115,6 @@ __GST - Accenture, Santiago, Chile__
 - Participé en el desarrollo de plataformas web de gestión de portabilidad para Movistar
 - Colaboré en el desarrollo de la plataforma web de PCR (Post Call Resolution) para Movistar, enfocada en la gestión de cuentas y servicios
 ##### *__Tecnologías__: Lenguaje y Frameworks: Java, Struts 1, Struts 2, Jquery, Prototype | Plataforma y Base de datos: IBM WAS, DB2*
-
-<div style = "display:block; clear:both; page-break-after:always;"></div>
 
 `Febrero 2011 - Sepriembre 2011`
 __Baytex Software, Santiago, Chile__
@@ -144,25 +139,64 @@ __Baytex Software, Santiago, Chile__
 ### Lenguajes
 
 ``` python
-lenguajes = ["python", "nodejs", "typescript", "javascript", "java", "groovy", "PHP","C Sharp", "Korn Shell", "Shell Script"]
+lenguajes_de_programacion = [
+    "Java", "Python", "PHP", "Node.js", "Groovy", "Typescript", "Javascript"
+    , "C#", "Korn shell"
+]
 ```
+
+<div style = "display:block; clear:both; page-break-after:always;"></div>
 
 ### Freamworks
 ``` python
-front = ["AngualrJs", "Angular 2+", "React", "ReactNative", "html", "css", "Android Nativo", "Cordova", "Ionic Freamwork 2+"]
+frontend = [
+    "AngularJs", "Angular 2+", "React", "ReactNative", "html", "css", 
+    "Javascript", "Typescript", "jquery", "bootstrap"
+]
 
-backend = ["Spring boot", "Flask", "expressJs", "Java", "JavaEE", "JAX-RS", "GWT", "Laravel", "Spock Freamworks" "PHP Codeigniter", "ADO.NET", "ASP.NET", "Wordpress", "Joomla", "Struts 1", "Struts 2"]
+backend = [
+    "Spring boot", "Flask", "expressJs", "GWT", "Laravel", 
+    "PHP Codeigniter", "Wordpress", "Joomla", "Struts 1", 
+    "Struts 2", "Django"
+]
 
-base_de_datos = ["Oracle", "OracleNoSQL", "H2", "DB2", "MySQL", "MariaDB", "SQLServer", "PostgreSQL", "MongoDB", "Amazon Aurora"]
+test = [
+    "Mockito", "TestNG", "junit", "Spock"
+]
 ```
-<div style = "display:block; clear:both; page-break-after:always;"></div>
-
 ### Conocimientos de Tecnologias
 
 ``` python
-technology = ["Amazon AWS", "Heroku", "Google Cloud", "Blockchain", "Protocolo Fix", "IBM WebSphere MQ Low Latency Messaging", "Docker", "Kubernetes", "Git", "SVN", "CVS", "Base de Datos SQL", "Airflow", "WAS", "Oracle Weblogic", "WildFly", "Tomcat", "GlassFish", "GNU/linux", "macos", "windows"]
-```
+bases_de_datos = [
+    "Oracle", "DB2", "MySQL", "MariaDB", "SQLServer", "PostgreSQL",
+    "Amazon Aurora", "Aurora Mysql", "OracleNoSQL", "H2", "MongoDB",
+    "Memcache"
+]
 
+source_control = [
+    "Git", "SVN", "CVS"
+]
+
+cloud = [
+    "AWS", "Heroku", "Google Cloud", "Azure"
+]
+
+metodologias_agiles = [
+    "Scrum", "Kanban"
+]
+
+otras_tecnologias = [ 
+    "Protocolo Fix", "IBM WebSphere MQ Low Latency Messaging", "Docker", 
+    "Kubernetes", "Airflow", "maven", "gradle", 
+    "IBM WebSphere MQ Low Latency Messaging", "WAS", "Oracle Weblogic",
+    "WildFly", "Tomcat", "GlassFish", "GNU/linux", "macos", "windows"
+]
+
+IDEs = [
+    "Xcode", "Android Studio", "IntelliJ", "WebStorm", "Eclipse", 
+    "Netbeans"
+]
+```
 
 ## Formación académica
 
