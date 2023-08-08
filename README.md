@@ -1,65 +1,44 @@
-# markdown-cv
+# Instrucciones para Ejecutar Jekyll y Generar PDF
 
-A curriculum vitae maintained in plain text and rendered to HTML and PDF using CSS.
+Este archivo README proporciona los pasos para ejecutar Jekyll y generar un archivo PDF utilizando wkhtmltopdf con opciones personalizadas.
 
-For more details, see the [project page](http://elipapa.github.io/markdown-cv), or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
+## Pasos
 
-***
+1. **Clonar el Repositorio:**
+   Clona el repositorio en tu máquina local utilizando el siguiente comando:
 
-## Customization
+   ```bash
+   git clone <URL_DEL_REPOSITORIO>
+   ```
 
-Simply [fork the markdown-cv repo](https://github.com/elipapa/markdown-cv)
+2. **Instalar Jekyll:**
+Asegúrate de tener instalado Jekyll en tu sistema. Si no lo tienes, puedes instalarlo usando el siguiente comando:
 
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+```bash
+gem install jekyll
+```
 
-and edit the `index.md` file [directly in Github](https://help.github.com/articles/editing-files-in-your-repository/)
 
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
+3. **Generar el Sitio Jekyll:**
+Dirígete al directorio del repositorio y ejecuta Jekyll para generar el sitio web:
 
-adding your skills, jobs and education.
+```bash
+jekyll build
+```
 
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
+4. **Ejecutar wkhtmltopdf:**
+Una vez generado el sitio web, ejecuta el siguiente comando para generar el archivo PDF utilizando wkhtmltopdf:
 
-## Distribution
+```bash
+wkhtmltopdf --enable-local-file-access --footer-center "[page]/[topage]" _site/index.html curr.pdf
+```
 
-To transform your plain text CV into a beautiful and shareable HTML page, you have two options:
+4. **Script contenido:**
+Utiliza el siguiente comando para ejecutar el script `buildPdf.sh` que generará el archivo PDF utilizando wkhtmltopdf:
 
-### I. Use Github Pages to publish it online
+```bash
+./buildPdf.sh
+```
 
-1. Delete the existing `gh-pages` branch from your fork. It will only contain this webpage. You can either use git or [the Github web interface](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/#deleting-a-branch).
-2. Create a new branch called `gh-pages`.
-3. Head to *yourusername*.github.io/markdown-cv to see your CV live.
 
-Any change you want to make to your CV from then on would have to be done on the `gh-pages` branch and will be immediately rendered by Github Pages.
 
-### II. Build it locally and print a PDF
-
-1. To [install jekyll](https://jekyllrb.com/docs/installation/), run `gem install bundler jekyll` from the command line.
-3. [Clone](https://help.github.com/en/articles/cloning-a-repository) your fork of markdown-cv to your local machine.
-3. Type `jekyll serve` to render your CV at http://localhost:4000.
-4. You can edit the `index.md` file and see the changes live in your browser.
-5. To print a PDF, press <kbd>⌘</kbd> + <kbd>p</kbd>. Print and web CSS media queries should take care of the styling.
-
-## Styling
-
-The included CSS will render your CV in two styles:
-s
-1. `kjhealy` the original default, inspired by [kjhealy's vita
-template](https://github.com/kjhealy/kjh-vita).
-2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
-  right aligned.
-
-To change the default style, simply change the variable in the
-`_config.yml` file.
-
-Any other styling is possible. More CSS style contributions and forks are welcome!
-
-### Author
-
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
-
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
-
-### License
-
-[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
