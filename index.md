@@ -17,7 +17,7 @@ Av. José Miguel de la Barra 430 Dpto. 53 – Santiago, Santiago de Chile
 
 ## Presentación
 
-- Profesional altamente experimentado en autogestión y desarrollo en diversos lenguajes, aplicaciones y soluciones tecnológicas. Impulsado por la pasión por la innovación, el aprendizaje continuo y la creación de soluciones eficientes, orientadas al presente y futuro. Cuento con una amplia experiencia en diversos sectores como minería, análisis de datos, contabilidad, fintech, mensajería, entre otros.
+- Profesional altamente experimentado en autogestión, diseño y desarrollo en diversos lenguajes, aplicaciones y soluciones tecnológicas. Impulsado por la pasión por la innovación, el aprendizaje continuo y la creación de soluciones eficientes, orientadas al presente y futuro. Cuento con una amplia experiencia en diversos sectores como minería, análisis de datos, contabilidad, fintech, mensajería, entre otros.
 
 ### Especializado en
 
@@ -38,47 +38,47 @@ Av. José Miguel de la Barra 430 Dpto. 53 – Santiago, Santiago de Chile
 `Enero 2022 - Junio 2023`
 __3it - Banco de Chile, Santiago, Chile__
 <br>***Desarrollador Fullstack***
-- Formé parte del equipo de Continuidad Móvil, participando en el desarrollo y mantenimiento de aplicaciones móviles. También fui parte del equipo de desarrollo del Laboratorio Digital, contribuyendo al desarrollo del Onboarding para el producto 'Cuenta FAN Clan'.
+- Formé parte del equipo de Continuidad Móvil, participando en el desarrollo y mantenimiento de aplicaciones móviles. También fui parte del equipo de desarrollo del Laboratorio Digital, contribuyendo al diseño y desarrollo del Onboarding para el producto 'Cuenta FAN Clan'.
 ##### __Tecnologías__: *Frontend: Angular, AngularJs, Ionic (Angular), React Native, Swift, Xcode | Backend: Java 11, Java 7, Java 8, Node.js, Spring Boot | Base de datos: Oracle SQL, Oracle NoSQL | IDEs (Entornos de desarrollo integrados): Android Studio, Intellij, WebStorm*
 
 `Mayo 2021 - Octubre 2021`
 __Fundación Nativo Digital, Santiago, Chile__
 <br>***Jefe de Tecnología y soluciones digitales***
-- Lideré la creación, desarrollo y mejora de plataformas y soluciones digitales para proyectos de la fundación. Integré tecnologías avanzadas, como Amazon Web Services, y lideré la adopción de nuevas tecnologías. Desarrollé aplicaciones móviles educativas y mantuve plataformas de e-learning para una experiencia continua y enriquecedora. 
-##### *__Tecnologías__: Lenguajes: Python, React, React Native, Node.js. | Frontend: React, React Native. Backend: Flask, Node.js. Base de datos: Postgresql. | IDEs: Android Studio. | Plataformas en la nube: AWS, Heroku.*
+- Lideré el diseño, creación, desarrollo y mejora de plataformas y soluciones digitales para proyectos de la fundación. Integré tecnologías avanzadas, como Amazon Web Services, y lideré la adopción de nuevas tecnologías. Desarrollé aplicaciones móviles educativas y mantuve plataformas de e-learning para una experiencia continua y enriquecedora. 
+##### *__Tecnologías__: Lenguajes: Python, React, React Native, Node.js. | Frontend: React, React Native. Backend: Flask, Node.js. Base de datos: PostgreSQL. | IDEs: Android Studio. | Plataformas en la nube: AWS, Heroku.*
 
 `Diciembre 2020 - Abril 2021`
 __Independiente, Santiago, Chile__
 <br>***Desarrollador Fullstack***
 - Diseñé y desarrollé un Muro Participativo para la campaña de concejal "La Reina Que Quieres", fomentando la interacción y participación de la comunidad en el proceso electoral.
-- Dirigí el aspecto técnico en la implementación y desarrollo de una encuesta ciudadana para el Distrito 11, con el objetivo de elegir a los constituyentes. Mi enfoque garantizó la creación de una plataforma confiable y accesible para que la ciudadanía pudiera participar de manera efectiva.
-- Encargado de liderar la implementación y desarrollo del padrón electoral para las primarias ciudadanas en La Reina. Creé una página con estilo similar al Servel, asegurando una revisión fiable de los datos electorales.
-##### *__Tecnologías__: Plataformas en la nube: AWS, Heroku | Lenguajes: Python | Base de datos: Postgresql | Backend: Flask, Node.js | Frontend: React.*
+- Dirigí y diseñe el aspecto técnico en la implementación y desarrollo de una encuesta ciudadana para el Distrito 11, con el objetivo de elegir a los constituyentes. Mi enfoque garantizó la creación de una plataforma confiable y accesible para que la ciudadanía pudiera participar de manera efectiva.
+- Encargado de liderar la implementación, diseño y desarrollo del padrón electoral para las primarias ciudadanas en La Reina. Creé una página con estilo similar al Servel, asegurando una revisión fiable de los datos electorales.
+##### *__Tecnologías__: Plataformas en la nube: AWS, Heroku | Lenguajes: Python | Base de datos: PostgreSQL | Backend: Flask, Node.js | Frontend: React.*
 
 
 `Marzo 2020 - Noviembre 2020`
 __Aukko Santiago, Chile__
 <br>***Líder de Desarrollo Senior***
-- Lideré la implementación de nuevas tecnologías y la mantención de datos, así como la creación de scrapers y plataformas para el análisis de mercados basados en datos de Mercado Público.
-##### *__Tecnologías__: Plataformas en la nube: AWS, Heroku | Lenguajes: Python, Bash | Bases de datos: Postgresql, Aurora Mysql | Herramientas y Frameworks: Apache Airflow, Flask, Scrapy, React, Node.js*
+- Lideré el diseño e implementación de nuevas tecnologías y la mantención de datos, así como la creación de scrapers y plataformas para el análisis de mercados basados en datos de Mercado Público.
+##### *__Tecnologías__: Plataformas en la nube: AWS, Heroku | Lenguajes: Python, Bash | Bases de datos: PostgreSQL, Amazon Aurora, MySQL | Herramientas y Frameworks: Apache Airflow, Flask, Scrapy, React, Node.js*
 
 `Agosoto 2019 - Marzo 2020`
 __TGA - Trend Group America Santiago, Chile__
-<br>***Líder de Desarrollo Senior***
-- Desarrollador senior con capacidad de liderazgo en la implementación de nuevas tecnologías y soluciones para la migración de datos y plataformas.
-##### *__Tecnologías__: Plataformas en la nube: AWS | Lenguajes: Python, Bash, PHP | Frameworks: Codeigniter | Bases de datos: Aurora Mysql | Herramientas: Pentaho | Backend: Node.js*
+<br>***Líder de Desarrollo***
+- Diseño, creación e implementación de nuevas tecnologías y soluciones para la migración de datos y plataformas.
+##### *__Tecnologías__: Plataformas en la nube: AWS | Lenguajes: Python, Bash, PHP | Frameworks: Codeigniter | Bases de datos: Amazon Aurora, MySQL | Herramientas: Pentaho | Backend: Node.js*
 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 `Noviembre 2018 - Junio 2019`
 __Synaptic Santiago, Chile__
 <br>***Desarrollador autogestionado***
-- Desarrollador autogestionado en proyectos para SERNAC, centrados en fiscalización. Además, contribuí en el Coordinador Eléctrico Nacional, participando en la plataforma de Gestión de Proyectos.
-##### *__Tecnologías__: Frontend: React | Backend: Django, Flask, PHP Laravel | Desarrollo Android: Java Android | Bases de datos: Postgresql, MongoDb | Plataforma en la nube: Google App Engine*
+- Desarrollador autogestionado en proyectos para SERNAC, diseñando y desarrollando aplicación web para la fiscalización. Además, contribuí en el Coordinador Eléctrico Nacional, participando en mejoras y optimización la plataforma de Gestión de Proyectos *https://pgp.coordinador.cl*.
+##### *__Tecnologías__: Frontend: React | Backend: Django, Flask, PHP Laravel | Desarrollo Android: Java Android | Bases de datos: PostgreSQL, MongoDb | Plataforma en la nube: Google App Engine*
 
 `Octubre 2018`
 __Independiente - Bithaus, Santiago, Chile__
 <br>***Desarrollador Aplicación Móvil***
-- Desarrollé una aplicación móvil para Bubble Gummers, una aplicación de cuentos para niños con disponibilidad en Android y iPhone.
+- Desarrollé y diseñe una aplicación móvil para Bubble Gummers, una aplicación de cuentos para niños con disponibilidad en Android y iPhone.
 ##### *__Tecnologías__: Desarrollo Móvil: Cordova, Ionic framework, Xcode, Android Studio*
 
 
@@ -93,7 +93,7 @@ __Kunder, Santiago, Chile__
 __Bithaus, Santiago, Chile__
 <br>***Ingeniero en Software***
 - Lideré el diseño, desarrollo y programación de diversos proyectos para Komatsu Chile, incluyendo la creación de sistemas como Estado de Pago, Seguimiento de Equipos y Presupuesto y Proyecciones.
-##### *__Tecnologías__: Frontend: JQuery | Backend: PHP, Java | Base de datos: Postgresql | Desarrollo Móvil: Android Studio*
+##### *__Tecnologías__: Frontend: JQuery | Backend: PHP, Java | Base de datos: PostgreSQL | Desarrollo Móvil: Android Studio*
 
 `Noviembre 2012 - Diciembre 2012`
 __CV Team - Habitat, Santiago, Chile__
@@ -119,7 +119,7 @@ __GST - Accenture, Santiago, Chile__
 `Febrero 2011 - Sepriembre 2011`
 __Baytex Software, Santiago, Chile__
 <br>***Programador***
-- Desarrollé la aplicación móvil ePredictor, un calendario menstrual personalizado, como parte del branding para la marca de té de embarazo Predictor.
+- Desarrollé la aplicación móvil ePredictor, un calendario menstrual personalizado, como parte del branding para la marca de test de embarazo Predictor.
 - Diseñé y desarrollé un sistema de pagos para el Mineduc, permitiendo un control eficiente de los pagos a establecimientos educacionales.
 ##### *__Tecnologías__: Lenguajes: Java, Javascript | Frameworks: Google Web Toolkit, JQuery Mobile, PhoneGap, Android | Base de datos: DB2*
 
@@ -164,21 +164,51 @@ test = [
     "Mockito", "TestNG", "junit", "Spock"
 ]
 ```
+
+### Tecnologias en la Nube
+
+``` python
+
+cloud = [
+    "AWS", "Heroku", "Google Cloud", "Azure"
+]
+
+aws_cloud = [ "Amazon EC2", "Amazon S3", "Amazon RDS", "AWS Lambda", 
+   "Amazon ECS", "Amazon SNS", "AWS Elastic Beanstalk", 
+   "Amazon Route 53", "AWS Glue", "Amazon CloudWatch",
+   "AWS Auto Scaling"
+]
+
+gcp_cloud = [ "Google Compute Engine", "Google Cloud Storage", 
+   "Google Cloud SQL", "Google Kubernetes Engine", "Google BigQuery", 
+   "Google Cloud Firestore", "Google Cloud IAM", 
+   "Google Cloud Functions", "Google Cloud Monitoring"
+]
+
+azure_cloud = [
+   "Azure SQL Database", "Azure Kubernetes Service", 
+   "Azure Virtual Machines", "Azure Active Directory", 
+   "Azure DevOps"
+]
+```
+<div style = "display:block; clear:both; page-break-after:always;"></div>
+
 ### Conocimientos de Tecnologias
 
 ``` python
 bases_de_datos = [
     "Oracle", "DB2", "MySQL", "MariaDB", "SQLServer", "PostgreSQL",
-    "Amazon Aurora", "Aurora Mysql", "OracleNoSQL", "H2", "MongoDB",
+    "Amazon Aurora", "OracleNoSQL", "H2", "MongoDB",
     "Memcache"
 ]
 
 source_control = [
-    "Git", "SVN", "CVS"
+    "Git", "SVN", "CVS", "Bitbucket", "Github", "Gitlab"
 ]
 
-cloud = [
-    "AWS", "Heroku", "Google Cloud", "Azure"
+integracion_continua = [
+   "Jenkins", "Azure DevOps", "Travis CI",
+"Bamboo", "Azure DevOps", "GitHub Actions"
 ]
 
 metodologias_agiles = [
@@ -187,9 +217,10 @@ metodologias_agiles = [
 
 otras_tecnologias = [ 
     "Protocolo Fix", "IBM WebSphere MQ Low Latency Messaging", "Docker", 
-    "Kubernetes", "Airflow", "maven", "gradle", 
-    "IBM WebSphere MQ Low Latency Messaging", "WAS", "Oracle Weblogic",
-    "WildFly", "Tomcat", "GlassFish", "GNU/linux", "macos", "windows"
+    "Kubernetes", "Vagrant", "Airflow", "maven", "gradle", "Ethereum", 
+    "Tuffle", "IBM WebSphere MQ Low Latency Messaging", "WAS", 
+    "Oracle Weblogic", "WildFly", "Tomcat", "GlassFish", "GNU/linux", 
+    "macos", "windows"
 ]
 
 IDEs = [
