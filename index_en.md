@@ -33,6 +33,7 @@ Av. José Miguel de la Barra 430 Dpto. 53 – Santiago, Santiago de Chile
 - **Winner in the contest** "API Mercado Público 2014" with "Werkén": I was awarded as the winner of the "API Mercado Público 2014" competition for my outstanding participation and the creation of "Werkén," an innovative alarm based on the WhatsApp messaging platform. This solution timely notifies about Purchase Orders and Bids, demonstrating my ability to develop effective and practical technological solutions to enhance procurement processes.
 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
+
 ## Work Experience
 
 `Janaury 2022 - June 2023`
@@ -69,6 +70,7 @@ __TGA - Trend Group America Santiago, Chile__
 ##### *__Technologies__: Cloud Platforms: AWS | Language: Python, Bash, PHP | Frameworks: Codeigniter | Databases: Amazon Aurora, MySQL | Tools: Pentaho | Backend: Node.js*
 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
+
 `November 2018 - June 2019`
 __Synaptic Santiago, Chile__
 <br>***Self-managed Developer***
@@ -81,13 +83,11 @@ __Independiente - Bithaus, Santiago, Chile__
 - I developed and designed a mobile application for Bubble Gummers, a children's story app available on Android and iPhone platforms.
 ##### *__Technologies__: Mobile Development: Cordova, Ionic framework, Xcode, Android Studio*
 
-
 `July 2015 - October 2018`
 __Kunder, Santiago, Chile__
 <br>***Senior Development***
 - I participated in the development of applications for various projects, including Banco de Chile (Mi Banco, Mi Pago, Mi Pass, Ticketing System, among others), Bice Vida (web and mobile reimbursement solutions), Engie (project assessment system), and Tanner (automotive credit management and administration platform).
 ##### *__Technologies__: Language and Frameworks: Java, Jax-Rs, Jersey, AngularJs, Angular, Ionic framework, ExpressJs, Korn Shell, PHP, Django, Flask, .Net, Visual Basic | Mobile Development: Xcode, Android Studio | Databases and plataforms: Oracle, Weblogic, Jboss, Wildfly | Tools: Maven*
-
 
 `Janaury 2013 - May 2015`
 __Bithaus, Santiago, Chile__
@@ -108,6 +108,7 @@ __Enlaces - Bolsa de Comercio de Santiago, Santiago, Chile__
 ##### *__Technologies__: Language and Frameworks: Java, Java Swing | Databases and storage: SqlServer, Memcache | Communications: WLLM Messenger, QuickFix*
 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
+
 `September 2011 – December 2011`
 __GST - Accenture, Santiago, Chile__
 <br>***Programmer***
