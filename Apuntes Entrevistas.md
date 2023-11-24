@@ -196,6 +196,160 @@ Estos patrones de diseño son solo algunos ejemplos de cómo se pueden estructur
 
 
 
+## Patrones de diseño Angular
+
+Angular es un marco de desarrollo (framework) para construir aplicaciones web de una sola página (Single Page Applications, SPA). Utiliza TypeScript como lenguaje principal y sigue un conjunto de patrones de diseño clásicos para la estructura de la aplicación y la gestión de datos. Algunos de los patrones de diseño comúnmente usados en Angular son:
+
+1. **Módulos**: Angular utiliza módulos para organizar el código en bloques funcionales. Cada módulo es una unidad cohesiva de funcionalidad.
+
+2. **Componentes**: Son los bloques de construcción básicos de una aplicación Angular. Cada componente controla una parte de la pantalla llamada vista.
+
+3. **Servicios**: Son clases con un propósito bien definido que se encargan de la lógica de negocio, como la recuperación de datos de un servidor, y pueden ser inyectados en componentes u otros servicios.
+
+4. **Inyección de Dependencias (DI)**: Es un patrón de diseño en el que una clase solicita dependencias de fuentes externas en lugar de crearlas por sí misma.
+
+5. **Templates**: Utilizan HTML para definir la vista de los componentes. Angular enriquece el HTML con características adicionales como binding de datos y directivas.
+
+6. **Data Binding**: Es un mecanismo automático de sincronización de datos entre el modelo y la vista.
+
+7. **Directivas**: Son clases que añaden comportamiento adicional a elementos del DOM en las plantillas de Angular.
+
+8. **Pipes**: Se utilizan para transformar datos en la plantilla.
+
+9. **Observables y RxJS**: Angular utiliza el patrón Observable con la librería RxJS para trabajar con eventos asíncronos y flujos de datos.
+
+10. **Routing**: Angular proporciona un servicio de routing para definir rutas de navegación entre diferentes vistas.
+
+Aquí tienes ejemplos de cómo se manifiestan estos patrones en el código de Angular:
+
+### Módulo (AppModule)
+```typescript
+import { NgModule } from '@angular/core';
+import { BrowserModule } from '@angular/platform-browser';
+import { AppComponent } from './app.component';
+
+@NgModule({
+  declarations: [
+    AppComponent
+  ],
+  imports: [
+    BrowserModule
+  ],
+  providers: [],
+  bootstrap: [AppComponent]
+})
+export class AppModule { }
+```
+
+### Componente (AppComponent)
+```typescript
+import { Component } from '@angular/core';
+
+@Component({
+  selector: 'app-root',
+  templateUrl: './app.component.html',
+  styleUrls: ['./app.component.css']
+})
+export class AppComponent {
+  title = 'my-angular-app';
+}
+```
+
+### Servicio (DataService)
+```typescript
+import { Injectable } from '@angular/core';
+import { HttpClient } from '@angular/common/http';
+
+@Injectable({
+  providedIn: 'root'
+})
+export class DataService {
+  constructor(private http: HttpClient) { }
+
+  getData() {
+    return this.http.get('api/data');
+  }
+}
+```
+
+### Inyección de Dependencias
+```typescript
+import { Component } from '@angular/core';
+import { DataService } from './data.service';
+
+@Component({
+  selector: 'app-data-component',
+  templateUrl: './data.component.html'
+})
+export class DataComponent {
+  data: any;
+
+  constructor(private dataService: DataService) {
+    dataService.getData().subscribe((data) => {
+      this.data = data;
+    });
+  }
+}
+```
+
+### Template con Data Binding
+```html
+<div>
+  <h1>{{ title }}</h1>
+  <p>Data: {{ data | json }}</p>
+</div>
+```
+
+### Directiva (ngFor)
+```html
+<ul>
+  <li *ngFor="let item of items">{{ item.name }}</li>
+</ul>
+```
+
+### Pipe (uppercase)
+```html
+<p>{{ 'hello world' | uppercase }}</p>
+```
+
+### Observable con RxJS
+```typescript
+import { Observable } from 'rxjs';
+
+export class MyComponent {
+  myObservable$: Observable<any>;
+
+  constructor() {
+    this.myObservable$ = new Observable(observer => {
+      // Emite valores, errores o completa el observable
+      observer.next('some value');
+      observer.complete();
+    });
+  }
+}
+```
+
+### Routing (AppRoutingModule)
+```typescript
+import { NgModule } from '@angular/core';
+import { RouterModule, Routes } from '@angular/router';
+import { DataComponent } from './data.component';
+
+const routes: Routes = [
+  { path: 'data', component: DataComponent }
+];
+
+@NgModule({
+  imports: [RouterModule.forRoot(routes)],
+  exports: [RouterModule]
+})
+export class AppRoutingModule { }
+```
+
+Cada uno de estos ejemplos ilustra cómo Angular implementa diferentes patrones de diseño para estructurar y manejar una aplicación web.
+
+
+
 ## Preguntas y respuesta Desarrollo
 
 **Preguntas sobre Lenguajes de Programación:**
