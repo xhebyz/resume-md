@@ -35,6 +35,14 @@ Av. José Miguel de la Barra 430 Dpto. 53 – Santiago, Santiago de Chile
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 ## Experiencia
 
+`Julio 2022 - Septiembre 2023`
+__Indiependiente, Santiago, Chile__
+<br>***Desarrollador Fullstack***
+- Desarrollo, creación diseño e implementación de Software a medida, web y mobile. Con interfaces de usuario intuitivas y eficientes.
+- Desarrollo, diseño e implementación de Sistema de Gestión de Documentos.
+- Análisis de Documentos a través de Inteligencia Artificial.
+##### __Tecnologías__: *Frontend: React, Antd | Backend: Python, PyTorch, TensorFlow, LangChain | Base de datos: MongoDB, ChromaDB | IDEs WebStorm, PyCharm | IA: Llama2 | Lenguajes: TypeScript, python, C, C++*
+
 `Enero 2022 - Junio 2023`
 __3it - Banco de Chile, Santiago, Chile__
 <br>***Desarrollador Fullstack***
@@ -54,6 +62,7 @@ __Independiente, Santiago, Chile__
 - Dirigí y diseñe el aspecto técnico en la implementación y desarrollo de una encuesta ciudadana para el Distrito 11, con el objetivo de elegir a los constituyentes. Mi enfoque garantizó la creación de una plataforma confiable y accesible para que la ciudadanía pudiera participar de manera efectiva.
 - Encargado de liderar la implementación, diseño y desarrollo del padrón electoral para las primarias ciudadanas en La Reina. Creé una página con estilo similar al Servel, asegurando una revisión fiable de los datos electorales.
 ##### *__Tecnologías__: Plataformas en la nube: AWS, Heroku | Lenguajes: Python | Base de datos: PostgreSQL | Backend: Flask, Node.js | Frontend: React.*
+<div style = "display:block; clear:both; page-break-after:always;"></div>
 
 
 `Marzo 2020 - Noviembre 2020`
@@ -68,7 +77,6 @@ __TGA - Trend Group America Santiago, Chile__
 - Diseño, creación e implementación de nuevas tecnologías y soluciones para la migración de datos y plataformas.
 ##### *__Tecnologías__: Plataformas en la nube: AWS | Lenguajes: Python, Bash, PHP | Frameworks: Codeigniter | Bases de datos: Amazon Aurora, MySQL | Herramientas: Pentaho | Backend: Node.js*
 
-<div style = "display:block; clear:both; page-break-after:always;"></div>
 `Noviembre 2018 - Junio 2019`
 __Synaptic Santiago, Chile__
 <br>***Desarrollador autogestionado***
@@ -88,12 +96,12 @@ __Kunder, Santiago, Chile__
 - Participé en el desarrollo de aplicaciones para varios proyectos, incluyendo el Banco de Chile (aplicaciones como Mi Banco, Mi Pago, Mi Pass, Sistema de Tickets, entre otros), Bice Vida (soluciones de reembolso web y móvil), Engie (sistema de evaluación de proyectos) y Tanner (plataforma de gestión y administración de créditos automotrices).
 ##### *__Tecnologías__: Lenguajes y Frameworks: Java, Jax-Rs, Jersey, AngularJs, Angular, Ionic framework, ExpressJs, Korn Shell, PHP, Django, Flask, .Net, Visual Basic | Desarrollo Móvil: Xcode, Android Studio | Bases de Datos y Plataformas: Oracle, Weblogic, Jboss, Wildfly | Herramientas y Gestión: Maven*
 
-
 `Enero 2013 - Mayo 2015`
 __Bithaus, Santiago, Chile__
 <br>***Ingeniero en Software***
 - Lideré el diseño, desarrollo y programación de diversos proyectos para Komatsu Chile, incluyendo la creación de sistemas como Estado de Pago, Seguimiento de Equipos y Presupuesto y Proyecciones.
 ##### *__Tecnologías__: Frontend: JQuery | Backend: PHP, Java | Base de datos: PostgreSQL | Desarrollo Móvil: Android Studio*
+<div style = "display:block; clear:both; page-break-after:always;"></div>
 
 `Noviembre 2012 - Diciembre 2012`
 __CV Team - Habitat, Santiago, Chile__
@@ -107,7 +115,6 @@ __Enlaces - Bolsa de Comercio de Santiago, Santiago, Chile__
 - Participé en el desarrollo, programación e implementación como parte del equipo del 'Proyecto Derivados'. Utilicé herramientas de mensajería como WLLM y FIX (QuickFix), además de brindar capacitación para la modificación de Market Data BCS.
 ##### *__Tecnologías__: Lenguaje y Frameworks: Java, Java Swing | Base de datos y Almacenamiento: SqlServer, Memcache | Comunicación: Mensajería WLLM, QuickFix*
 
-<div style = "display:block; clear:both; page-break-after:always;"></div>
 `Septiembre 2011 – Diciembre 2011`
 __GST - Accenture, Santiago, Chile__
 <br>***Programador para Proyecto***
@@ -133,7 +140,7 @@ __Baytex Software, Santiago, Chile__
 - **Español**, *Competencias en creación, análisis crítico y comprensión de texto en mi lengua materna.*
 - **Ingles**, *Habilidad en escuchar, comprender, leer y escribir*
 
-
+<div style = "display:block; clear:both; page-break-after:always;"></div>
 ## Competencias y Habilidades Disciplinarias
 
 ### Lenguajes
@@ -145,26 +152,23 @@ lenguajes_de_programacion = [
 ]
 ```
 
-<div style = "display:block; clear:both; page-break-after:always;"></div>
-
 ### Freamworks
 ``` python
 frontend = [
     "AngularJs", "Angular 2+", "React", "ReactNative", "html", "css", 
-    "Javascript", "Typescript", "jquery", "bootstrap"
+    "Javascript", "Typescript", "jquery", "bootstrap", "Vue.js"
 ]
 
 backend = [
     "Spring boot", "Flask", "expressJs", "GWT", "Laravel", 
     "PHP Codeigniter", "Wordpress", "Joomla", "Struts 1", 
-    "Struts 2", "Django"
+    "Struts 2", "Django", "LangChain", "PyTorch"
 ]
 
 test = [
     "Mockito", "TestNG", "junit", "Spock"
 ]
 ```
-
 ### Tecnologias en la Nube
 
 ``` python
@@ -187,19 +191,16 @@ gcp_cloud = [ "Google Compute Engine", "Google Cloud Storage",
 
 azure_cloud = [
    "Azure SQL Database", "Azure Kubernetes Service", 
-   "Azure Virtual Machines", "Azure Active Directory", 
-   "Azure DevOps"
+   "Azure Virtual Machines", "Azure Active Directory", "Azure DevOps"
 ]
 ```
-<div style = "display:block; clear:both; page-break-after:always;"></div>
-
 ### Conocimientos de Tecnologias
 
 ``` python
 bases_de_datos = [
     "Oracle", "DB2", "MySQL", "MariaDB", "SQLServer", "PostgreSQL",
     "Amazon Aurora", "OracleNoSQL", "H2", "MongoDB",
-    "Memcache"
+    "Memcache", "ChromaDB"
 ]
 
 source_control = [
@@ -228,7 +229,6 @@ IDEs = [
     "Netbeans"
 ]
 ```
-
 ## Formación académica
 
 `2011`

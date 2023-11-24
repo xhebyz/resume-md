@@ -48,7 +48,7 @@ __Foundation Nativo Digital, Santiago, Chile__
 ##### *__Technologies__: Language: Python, React, React Native, Node.js. | Frontend: React, React Native. Backend: Flask, Node.js. Databases: PostgreSQL. | IDEs: Android Studio. | Cloud Platforms: AWS, Heroku.*
 
 `December 2020 - April 2021`
-___Self-Employed__, Santiago, Chile__
+__Self-Employed, Santiago, Chile__
 <br>***Fullstack Developer***
 - I designed and developed a Participatory Wall for the "La Reina Que Quieres" councilor campaign, promoting community interaction and participation in the electoral process.
 - I led and designed the technical aspects in the implementation and development of a citizen survey for District 11, with the aim of selecting constituents. My focus ensured the creation of a reliable and accessible platform for citizens to participate effectively.
