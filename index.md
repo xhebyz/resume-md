@@ -17,11 +17,11 @@ Av. José Miguel de la Barra 430 Dpto. 53 – Santiago, Santiago de Chile
 
 ## Presentación
 
-- Profesional altamente experimentado en autogestión, diseño y desarrollo en diversos lenguajes, aplicaciones y soluciones tecnológicas. Impulsado por la pasión por la innovación, el aprendizaje continuo y la creación de soluciones eficientes, orientadas al presente y futuro. Cuento con una amplia experiencia en diversos sectores como minería, análisis de datos, contabilidad, fintech, mensajería, entre otros.
+- Profesional altamente experimentado en autogestión, diseño y desarrollo en diversos lenguajes, aplicaciones y soluciones tecnológicas. Impulsado por la pasión por la innovación, el aprendizaje continuo y la creación de soluciones eficientes, orientadas al presente y futuro. Cuento con una amplia experiencia en diversos sectores como minería, análisis de datos, contabilidad, fintech, banca, mensajería, entre otros.
 
 ### Especializado en
 
-- Me especializo en el desarrollo de software fullstack a medida, brindando servicios de diseño, construcción e implementación de soluciones en diversos *lenguajes* y tecnologías, entre los que destacan **Java, Python, PHP, Node.js, Groovy, Typescript y Javascript**. 
+- Me especializo en el desarrollo de software fullstack a medida, brindando servicios de diseño, construcción e implementación de soluciones en diversos *lenguajes* y tecnologías, entre los que destacan **Java, Kotlin, Python, PHP, Node.js, Groovy, Typescript y Javascript**. 
 - Mi enfoque de trabajo se basa en **metodologías ágiles**, siendo un firme defensor de la agilidad para abordar proyectos de manera flexible y colaborativa. He trabajado con metodologías como **Scrum y Kanban**, entre otras, para asegurar la entrega oportuna y eficaz de soluciones. Creo en la importancia de la comunicación y la adaptación constante, lo que me permite enfrentar desafíos de manera efectiva y brindar resultados de alta calidad.
 
 ### Intereses profesionales
@@ -35,10 +35,23 @@ Av. José Miguel de la Barra 430 Dpto. 53 – Santiago, Santiago de Chile
 <div style = "display:block; clear:both; page-break-after:always;"></div>
 ## Experiencia
 
-`Enero 2024 - Diciembre 2024`
-__Kabeli Spa. - Itau Chile, Santiago, Chile__
+`Abril 2025 - Marzo 2026`
+__Kabeli Spa. - Itaú Chile, Santiago, Chile__
 <br>***Desarrollador Frontend***
-- Desarrollo e implementación de soluciones y diseño para la aplicación Itu del Banco Itau en Chile (React Native, TypeScript, Android e IPhone).
+- Desarrollo e implementación de soluciones y diseño para la aplicación ITU del Banco Itaú en Chile (React Native, TypeScript, Android e IPhone).
+- Desarrollo e implementación de nuevos desarrollo en Android en Nativo para la SuperApp de Banco Itaú en Chile.
+##### __Tecnologías__: *Frontend: React, React Native, Swift UI, Android | Base de datos: Firebase | IDEs: WebStorm, Xcode, Android Studio | Lenguajes: TypeScript, Swift, Objetive-C, Java, Kotlin*
+
+`Enero 2025 - Marzo 2025`
+__Proinfo - Fonasa, Santiago, Chile__
+<br>***Desarrollador Fullstack***
+- Desarrollor para FONASA. Migración y desarrollo de aplicación web para el manejo de prestadores y prestaciones.
+##### __Tecnologías__: *Frontend: React | Backend: FastApi, Pandas  | Base de datos: Oracle Database | IDEs: WebStorm, PyCharm | Lenguajes: Typescript, Python*
+
+`Enero 2024 - Diciembre 2024`
+__Kabeli Spa. - Itaú Chile, Santiago, Chile__
+<br>***Desarrollador Frontend***
+- Desarrollo e implementación de soluciones y diseño para la aplicación ITU del Banco Itaú en Chile (React Native, TypeScript, Android e IPhone).
 - Desarrollo de soluciones tanto en React Native como en Nativo para la implementación de Google Pay y Apple Pay.
 - Desarrollo de soluciones tanto en React Native como en Nativo (Swift, Objetive-C) para la implementación de In App Review.
 ##### __Tecnologías__: *Frontend: React, React Native, Swift UI, Android | | Base de datos: Firebase | IDEs WebStorm, Xcode, Android Studio | Lenguajes: TypeScript, Swift, Objetive-C, Java*
@@ -97,14 +110,13 @@ __Independiente - Bithaus, Santiago, Chile__
 - Desarrollé y diseñe una aplicación móvil para Bubble Gummers, una aplicación de cuentos para niños con disponibilidad en Android y iPhone.
 ##### *__Tecnologías__: Desarrollo Móvil: Cordova, Ionic framework, Xcode, Android Studio*
 
-<div style = "display:block; clear:both; page-break-after:always;"></div>
-
 `Julio 2015 - Octubre 2018`
 __Kunder, Santiago, Chile__
 <br>***Desarrollador Senior***
 - Participé en el desarrollo de aplicaciones para varios proyectos, incluyendo el Banco de Chile (aplicaciones como Mi Banco, Mi Pago, Mi Pass, Sistema de Tickets, entre otros), Bice Vida (soluciones de reembolso web y móvil), Engie (sistema de evaluación de proyectos) y Tanner (plataforma de gestión y administración de créditos automotrices).
 ##### *__Tecnologías__: Lenguajes y Frameworks: Java, Jax-Rs, Jersey, AngularJs, Angular, Ionic framework, ExpressJs, Korn Shell, PHP, Django, Flask, .Net, Visual Basic | Desarrollo Móvil: Xcode, Android Studio | Bases de Datos y Plataformas: Oracle, Weblogic, Jboss, Wildfly | Herramientas y Gestión: Maven*
 
+<div style = "display:block; clear:both; page-break-after:always;"></div>
 `Enero 2013 - Mayo 2015`
 __Bithaus, Santiago, Chile__
 <br>***Ingeniero en Software***
@@ -131,8 +143,6 @@ __GST - Accenture, Santiago, Chile__
 - Colaboré en el desarrollo de la plataforma web de PCR (Post Call Resolution) para Movistar, enfocada en la gestión de cuentas y servicios
 ##### *__Tecnologías__: Lenguaje y Frameworks: Java, Struts 1, Struts 2, Jquery, Prototype | Plataforma y Base de datos: IBM WAS, DB2*
 
-<div style = "display:block; clear:both; page-break-after:always;"></div>
-
 `Febrero 2011 - Sepriembre 2011`
 __Baytex Software, Santiago, Chile__
 <br>***Programador***
@@ -140,6 +150,7 @@ __Baytex Software, Santiago, Chile__
 - Diseñé y desarrollé un sistema de pagos para el Mineduc, permitiendo un control eficiente de los pagos a establecimientos educacionales.
 ##### *__Tecnologías__: Lenguajes: Java, Javascript | Frameworks: Google Web Toolkit, JQuery Mobile, PhoneGap, Android | Base de datos: DB2*
 
+<div style = "display:block; clear:both; page-break-after:always;"></div>
 `Diciembre 2011 - Febrero 2011`
 __Baytex Software, Santiago, Chile__
 <br>***Practica Programador Jr.***
@@ -149,8 +160,6 @@ __Baytex Software, Santiago, Chile__
 ## Idiomas
 - **Español**, *Competencias en creación, análisis crítico y comprensión de texto en mi lengua materna.*
 - **Ingles**, *Habilidad en escuchar, comprender, leer y escribir*
-
-<div style = "display:block; clear:both; page-break-after:always;"></div>
 
 ## Competencias y Habilidades Disciplinarias
 
@@ -180,6 +189,8 @@ test = [
     "Mockito", "TestNG", "junit", "Spock"
 ]
 ```
+
+<div style = "display:block; clear:both; page-break-after:always;"></div>
 ### Tecnologias en la Nube
 
 ``` python
@@ -257,6 +268,6 @@ __Titulo Enseñanza Media, Colegio San Ignacio__, Santiago, Chile
 
 <!-- ### Footer
 
-Last updated: Agosto 2023 -->
+Last updated: Agosto 2026 -->
 
 

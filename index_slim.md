@@ -19,27 +19,35 @@ Av. José Miguel de la Barra 430 Dpto. 53 – Santiago, Santiago de Chile
 
 - Profesional altamente experimentado en autogestión, diseño y desarrollo en diversos lenguajes, aplicaciones y soluciones tecnológicas. Impulsado por la pasión por la innovación, el aprendizaje continuo y la creación de soluciones eficientes, orientadas al presente y futuro. Cuento con una amplia experiencia en diversos sectores como minería, análisis de datos, contabilidad, fintech, mensajería, entre otros.
 
-### Especializado en
-
-- Me especializo en el desarrollo de software fullstack a medida, brindando servicios de diseño, construcción e implementación de soluciones en diversos *lenguajes* y tecnologías, entre los que destacan **Java, Python, PHP, Node.js, Groovy, Typescript y Javascript**.
-- Mi enfoque de trabajo se basa en **metodologías ágiles**, siendo un firme defensor de la agilidad para abordar proyectos de manera flexible y colaborativa. He trabajado con metodologías como **Scrum y Kanban**, entre otras, para asegurar la entrega oportuna y eficaz de soluciones. Creo en la importancia de la comunicación y la adaptación constante, lo que me permite enfrentar desafíos de manera efectiva y brindar resultados de alta calidad.
-
 ## Premios y Reconocimiento
 
 - **Ganador en el concurso** "API Mercado Público 2014" con "Werkén": Fui galardonado como ganador en el concurso "API Mercado Público 2014" por mi destacada participación.
 
 ## Experiencia
 
-`Enero 2024 - Diciembre 2024`
-__Kabeli Spa. - Itau Chile, Santiago, Chile__
+`Abril 2025 - Marzo 2026`
+__Kabeli Spa. - Itaú Chile, Santiago, Chile__
 <br>***Desarrollador Frontend***
-- Desarrollo e implementación de soluciones y diseño para la aplicación Itu del Banco Itau en Chile (React Native, TypeScript, Android e IPhone).
+- Desarrollo e implementación de soluciones y diseño para la aplicación ITU del Banco Itaú en Chile (React Native, TypeScript, Android e IPhone).
+- Desarrollo e implementación de nuevos desarrollo en Android en Nativo para la SuperApp de Banco Itaú en Chile.
+##### __Tecnologías__: *Frontend: React, React Native, Swift UI, Android | Base de datos: Firebase | IDEs: WebStorm, Xcode, Android Studio | Lenguajes: TypeScript, Swift, Objetive-C, Java, Kotlin*
+
+`Enero 2025 - Marzo 2025`
+__Proinfo - Fonasa, Santiago, Chile__
+<br>***Desarrollador Fullstack***
+- Desarrollor para FONASA. Migración y desarrollo de aplicación web para el manejo de prestadores y prestaciones.
+##### __Tecnologías__: *Frontend: React | Backend: FastApi, Pandas  | Base de datos: Oracle Database | IDEs: WebStorm, PyCharm | Lenguajes: Typescript, Python*
+
+`Enero 2024 - Diciembre 2024`
+__Kabeli Spa. - Itaú Chile, Santiago, Chile__
+<br>***Desarrollador Frontend***
+- Desarrollo e implementación de soluciones y diseño para la aplicación ITU del Banco Itaú en Chile (React Native, TypeScript, Android e IPhone).
 - Desarrollo de soluciones tanto en React Native como en Nativo para la implementación de Google Pay y Apple Pay.
 - Desarrollo de soluciones tanto en React Native como en Nativo (Swift, Objetive-C) para la implementación de In App Review.
 ##### __Tecnologías__: *Frontend: React, React Native, Swift UI, Android | | Base de datos: Firebase | IDEs WebStorm, Xcode, Android Studio | Lenguajes: TypeScript, Swift, Objetive-C, Java*
 
 `Julio 2023 - Enero 2024`
-__Indiependiente, Santiago, Chile__
+__Independiente, Santiago, Chile__
 <br>***Desarrollador Fullstack***
 - Desarrollo, creación diseño e implementación de Software a medida, web y mobile. Con interfaces de usuario intuitivas y eficientes.
 - Desarrollo, diseño e implementación de Sistema de Gestión de Documentos.
@@ -47,7 +55,6 @@ __Indiependiente, Santiago, Chile__
 ##### __Tecnologías__: *Frontend: React, Antd | Backend: Python, PyTorch, TensorFlow, LangChain | Base de datos: MongoDB, ChromaDB | IDEs WebStorm, PyCharm | IA: Llama2 | Lenguajes: TypeScript, python, C, C++*
 
 <div style = "display:block; clear:both; page-break-after:always;"></div>
-
 `Enero 2022 - Junio 2023`
 __3it - Banco de Chile, Santiago, Chile__
 <br>***Desarrollador Fullstack***
@@ -64,45 +71,32 @@ __Fundación Nativo Digital, Santiago, Chile__
 - **Español**, *Competencias en creación, análisis crítico y comprensión de texto en mi lengua materna.*
 - **Ingles**, *Habilidad en escuchar, comprender, leer y escribir*
 
+<div style = "display:block; clear:both; page-break-after:always;"></div>
 ## Competencias y Habilidades Disciplinarias
-
-### Lenguajes
 
 ``` python
 lenguajes_de_programacion = [
     "Java", "Python", "PHP", "Node.js", "Groovy", "Typescript", "Javascript"
     , "C#", "Korn shell"
 ]
-```
 
-### Freamworks
-``` python
 frontend = [
     "AngularJs", "Angular 2+", "React", "ReactNative", "html", "css", 
     "Javascript", "Typescript", "jquery", "bootstrap", "Vue.js"
 ]
 
 backend = [
-    "Spring boot", "Flask", "expressJs", "GWT", "Laravel", 
+    "Spring MVC", "Spring boot", "Flask", "expressJs", "GWT", "Laravel", 
     "PHP Codeigniter", "Wordpress", "Joomla", "Struts 1", 
     "Struts 2", "Django", "LangChain", "PyTorch"
 ]
 
-test = [
+testing = [
     "Mockito", "TestNG", "junit", "Spock"
 ]
-```
-### Tecnologias en la Nube
-
-``` python
-cloud = [
+tecnologia_en_la_nube = [
     "AWS", "Heroku", "Google Cloud", "Azure"
 ]
-```
-
-### Conocimientos de Tecnologias
-
-``` python
 bases_de_datos = [
     "Oracle", "DB2", "MySQL", "MariaDB", "SQLServer", "PostgreSQL",
     "Amazon Aurora", "OracleNoSQL", "H2", "MongoDB",
@@ -116,6 +110,7 @@ source_control = [
 metodologias_agiles = [
     "Scrum", "Kanban"
 ]
+
 ```
 
 ## Formación académica
@@ -135,6 +130,6 @@ __Titulo Enseñanza Media, Colegio San Ignacio__, Santiago, Chile
 
 <!-- ### Footer
 
-Last updated: Agosto 2023 -->
+Last updated: Enero 2026 -->
 
 
